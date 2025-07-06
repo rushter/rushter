@@ -1,4 +1,5 @@
 """GitHub Stars Updater"""
+
 import os
 from pathlib import Path
 
@@ -20,8 +21,8 @@ README_TEMPLATE = """
 repos_to_ignore = [
     "Facebook-Recruiting",
     "strolax",
-    "rushter"
-    "find_domains"
+    "rushter",
+    "find_domains",
 ]
 
 
