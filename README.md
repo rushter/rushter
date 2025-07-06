@@ -16,3 +16,4 @@
 - [sqlinjast](https://github.com/rushter/sqlinjast) — Detecting SQL Injections using AST **(★ 12)**
 - [SigStrike](https://github.com/rushter/SigStrike) — Cobalt Strike beacon parser and crawler **(★ 5)**
 - [find_domains](https://github.com/rushter/find_domains) — Library to search for domain names in text data **(★ 4)**
+- [rushter](https://github.com/rushter/rushter) —  **(★ 0)**
