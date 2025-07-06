@@ -24,21 +24,6 @@ repos_to_ignore = [
 ]
 
 
-def get_repo_stars(owner, repo, token=None):
-    url = f"{GITHUB_API_URL}/{owner}/{repo}"
-    headers = {"Accept": "application/vnd.github.v3+json"}
-    if token:
-        headers["Authorization"] = f"token {token}"
-
-    try:
-        r = requests.get(url, headers=headers)
-        r.raise_for_status()
-        return r.json()["stargazers_count"]
-    except Exception as e:
-        print(f"Exception when fetching stars for {owner}/{repo}: {str(e)}")
-        return None
-
-
 def get_user_repos(token):
     headers = {
         "Accept": "application/vnd.github.v3+json",
