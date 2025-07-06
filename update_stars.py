@@ -21,6 +21,7 @@ repos_to_ignore = [
     "Facebook-Recruiting",
     "strolax",
     "rushter"
+    "find_domains"
 ]
 
 
