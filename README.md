@@ -7,7 +7,7 @@
 
 ## 📦 Public Projects
 
-- [MLAlgorithms](https://github.com/rushter/MLAlgorithms) — Minimal and clean examples of machine learning algorithms implementations **(★ 10,874)**
+- [MLAlgorithms](https://github.com/rushter/MLAlgorithms) — Minimal and clean examples of machine learning algorithms implementations **(★ 10,875)**
 - [data-science-blogs](https://github.com/rushter/data-science-blogs) — A curated list of data science blogs **(★ 6,363)**
 - [selectolax](https://github.com/rushter/selectolax) — Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors). **(★ 1,375)**
 - [heamy](https://github.com/rushter/heamy) — A set of useful tools for competitive data science. **(★ 552)**
