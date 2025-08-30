@@ -14,5 +14,5 @@
 - [socks5](https://github.com/rushter/socks5) — A toy socks 5 server written in Python **(★ 173)**
 - [blog_code](https://github.com/rushter/blog_code) — Code snippets from my blog  **(★ 25)**
 - [SigStrike](https://github.com/rushter/SigStrike) — Cobalt Strike beacon parser and crawler **(★ 16)**
+- [hexora](https://github.com/rushter/hexora) — Static analysis of malicious Python code **(★ 12)**
 - [sqlinjast](https://github.com/rushter/sqlinjast) — Detecting SQL Injections using AST **(★ 12)**
-- [hexora](https://github.com/rushter/hexora) — Static analysis of malicious Python code **(★ 8)**
