@@ -1,0 +1,8 @@
+[project]
+name = "rushter"
+version = "0.1.0"
+description = "Profile readme"
+readme = "README.md"
+dependencies = [
+    "requests>=2.32.4",
+]
